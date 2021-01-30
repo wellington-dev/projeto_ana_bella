@@ -1,2 +1,3 @@
 # projeto_Ana_Bella
-Site criado para uma modelo fictícia utilizando HTML5 e CSS3
+
+Site created for a fictional model using HTML5 and CSS3
